@@ -1,5 +1,5 @@
 """ experiment to elicit typicality judgments about noun-adjective pairs"""
-""" claire bergey"""
+
 import logging
 
 from selenium.webdriver.common.by import By
